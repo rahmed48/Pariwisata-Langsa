@@ -8,7 +8,7 @@ import FeaturedImage from "parts/FeaturedImage";
 import PageDetailDescription from "parts/PageDetailDescription";
 import BookingForm from "parts/BookingForm";
 import Activities from "parts/Activities";
-import Testimony from "parts/Testimony";
+// import Testimony from "parts/Testimony";
 import Footer from "parts/Footer";
 
 import { checkoutBooking } from "store/actions/checkout";

@@ -1,7 +1,7 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
 
-import Button from "elements/Button";
+// import Button from "elements/Button";
 import IconText from "parts/IconText";
 export default function Footer() {
   return (
